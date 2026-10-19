@@ -5,6 +5,9 @@ flask
 
 A simple web application created using Python and Flask.
 
+<img width="969" height="776" alt="confusion_matrix" src="https://github.com/user-attachments/assets/cafc9986-81a9-4f27-b698-ca21a84048fc" />
+
+
 ## Technologies Used
 - Python
 - Flask
